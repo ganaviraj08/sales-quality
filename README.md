@@ -78,4 +78,6 @@ Open index.html by double-clicking it or opening it in a web browser.
 
 Use the sidebar navigation to explore the Sales and Quality dashboards.
 
-
+Public link : 
+SALES DASHBOARD - https://public.tableau.com/views/SalesDashboard_17665108153500/SalesDashboard?:showVizHome=no
+QUALITY DASHBOARD - https://public.tableau.com/views/QualityDashboard_17665119494060/QualityDashboard?:showVizHome=no
